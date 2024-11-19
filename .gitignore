@@ -1,4 +1,3 @@
-/Library
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -68,3 +67,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /Library
+Assets/Scenes/Angel Wings 01 - Animation - slow flapping wings.FBX
+Assets/Scenes/Angel Wings 01 - Animation - slow flapping wings.FBX.meta
+/Assets/Scenes
+/Assets/Stuff
